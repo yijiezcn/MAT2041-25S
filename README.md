@@ -25,62 +25,62 @@ seo:
 
 ## Course Materials
 
-***The course materials can be found in [HERE](https://yijiezcn.github.io/MAT2041-23F/calendar/)***
+***The course materials can be found in [HERE](https://yijiezcn.github.io/MAT2041-25S/calendar/)***
 
 
 ## Online communication channels
 
 - This website: a collection of links, announcements, course material, homeworks, etc.
-- Piazza: sign up at [HERE](https://piazza.com/the_chinese_university_of_hong_kong_shenzhen/fall2023/mat2041), for discussion
+- Piazza: sign up at [HERE](https://piazza.com/the_chinese_university_of_hong_kong_shenzhen), for discussion
 - Wechat group: daily discussion and announcements, etc. 
-- Blackboard: submit homeworks. Only occassionally used for posting announcements.
+- Blackboard: submit homeworks. Only occassionally used for posting announcements. Backup reference for course material.
 
 
 ## Logistics
 
-### *Session L1*
+**Time**: 01/06/2025-05/09/2022 Exam Week: (05/10-05/17)
 
-**Time**: 09/04/2022-12/16/2022 Exam Week: (12/17-12/24)
+### *Session L1&L2*
 
-**Instructor**: **Hongyuan Zha**   zhahy@cuhk.edu.cn
-
-**Course Schedule**: Tue & Thu 8:30AM - 9:50AM
-
-**Venue**: Teaching B Bldg 104
-
-<!--**Office Hours**: Thu 3:30PM-4:30PM, Daoyuan Building 603-->
-
-### *Session L2&L3*
-
-**Instructor**: **Ruoyu Sun**   sunruoyu@cuhk.edu.cn
+**Instructor**: **Ruoyu SUN**   sunruoyu@cuhk.edu.cn
 
 **Course Schedule**: 
 
-L2: Tue & Thu 10:30AM-11:50AM
+L1: Tue & Thu 8:30AM-10:50AM
 
-L3: Tue & Thu 1:30PM-2:50PM
+L2: Tue & Thu 1:30PM-2:50PM
 
 **Venue**: 
 
-L2: Zhixin Bldg 110
+L1: TxC 201
 
-L3: Zhixin Bldg 111
+L2: TxC 201
+
+<!--**Office Hours**: TBA, Daoyuan Building 521b-->
+
+### *Session L3*
+
+**Instructor**: **Cosme LOUART**   cosmelouart@cuhk.edu.cn
+
+**Course Schedule**: TBA
+
+**Venue**: TBA
 
 **Textbook**: "*Introduction to Linear Algebra*", Gilbert Strang, 6th Edition, Wellesley-Cambridge Press. (The 6th edition is recommended, but the 5th is also okay)
 
-**Secondary reference book** "*Introduction to Applied Linear Algebra*", Steven Boyd, Lieven Vandenberghe.  (some material from this book)
+**Secondary reference book** 
+
+- "*Introduction to Applied Linear Algebra*", Steven Boyd, Lieven Vandenberghe.
+- "*Linear Algebra with Applications*", Steven J. Leon.
+- "*Linear Algebra and its Applications*", David C. Lay, et al..
 
 ### *Office hours*
 
-***See [HERE](https://yijiezcn.github.io/MAT2041-23F/staff/)***
+***See [HERE](https://yijiezcn.github.io/MAT2041-25S/staff/)***
 
 ### *Tutorial*
 
-***See [HERE](https://yijiezcn.github.io/MAT2041-23F/assets/tutorials/tut_timetable.xlsx)***
-
-<!--**Office Hours**: Tue 3PM-4PM, Zhixin 111 or Daoyuan Building 412-->
-
-<!--**Tutorial Hours**: [Tutorial schedule](https://yijiezcn.github.io/MAT2041-23F/schedule/)-->
+***See [HERE](https://yijiezcn.github.io/MAT2041-25S/assets/tutorials/tut_timetable.xlsx)***
 
 ## Course Description
 
@@ -97,12 +97,10 @@ Following the completion of this course, students should be able to
 5. Applying linear algebra tools to data science.
 
 ## Grading Scheme
-- Assignments and Quizzes: 35%
+- Attendance: 5% (checked after 3 rd week, end of add/drop period)
+- Assignments and Quizzes: 30% (In total approx. 7 assignments, 5 quiz)
 - Midterm exam: 30%
 - Final exam: 35%
-
-*(There maybe some in-class quizzes, contributing a random portion from 0% to 5% to the final score.)*
-
 
 ## Policy for assignments and exams
 
@@ -115,24 +113,6 @@ Following the completion of this course, students should be able to
 - Assignments and due dates will be announced on the course website. There will be reminders of the coming deadlines at the beginning of each week in our WeChat Group and/or via email.
 - Plagiarism will be dealt with severity. See “Academic Integrity” below for more details.
 - Grading clarifications (in assignments as well as exams) should be resolved within a week from the date when the graded submission is returned. No clarification applications will be considered after a week. Bring your clarification requirements to the TA’s office hour.
-
-<!-- ## Late policy
-
-  You will be given **3 grace days** (self-granted extensions) **for the whole semester**, which you can use to give yourself extra time without penalty. Note that passing the deadline by 1 minute or 23 hours are both counted as one grace day.
-Instructor-granted extensions are only considered after all grace days are used and can only be given in exceptional situations.
-Late homework submitted when you have run out of grace days leads to a reduction of **20%** from the total points for that assignment.
-
-For instance, if in homework 1 you submit 2 days late and in homework 2 you submit 1 day late, then you do not get penalty for these two submissions, but you have used all your 3 grace days now. For homework 3, if you submit 1 day late (e.g. submit 2 minutes late than the deadline), you will get a penalty of 20% of the total points for homework 3; same penalty applies to all subsequent homeworks.
-
-**HARD** deadline of **3 days** past the original due date. Late submissions after the hard deadline (penalty or not) lead to **ZERO** point (unless in very special cases and under the approval of the instructor.
-
-For instance, if you submit homework 2 in the 3rd day after deadline and you used no grace day before, then you get no penalty since it is still within 3 grace days; but if you submit in the 4th day, you will get ZERO point since it passes the HARD deadline.
-
-
-## Grace days
-
-Grace days are “self-granted extensions”. We recognize that even the most careful of plans can be derailed by an unforeseen event. When the unexpected happens – you get the flu, the network goes down, you delete a critical file, a personal situation escalates – you would usually have to request an extension from the staff. Instead, you are given the privilege to grant yourself an extension without our oversight. One grace day extends the deadline by 24 hours. *Grace days are your means to cover real problems: illness, stolen laptops, bike accidents, and so on*. We don't intend for them to cover ski trips, overcommitment, or poor planning, but you can use them as you choose and we don't check up on you. You may use all of your grace days for one assignment, distribute them across several assignments, or even better, hoard them for a crisis that thankfully never comes. Since Grace days are “self-granted extensions”, you do NOT need to send an email to the TAs if you want to use the grace day(s).
- -->
 
 ## Regrade requests
 
