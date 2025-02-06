@@ -1,8 +1,8 @@
 ---
-name: Zhou, Yijie (Lead)
+name: Zhou, Yijie
 role: Teaching Assistant
 email: 222043016@link.cuhk.edu.cn
-office-hours: Wed 10:00-11:00AM @ Daoyuan 224
+office-hours: Thu 9:00-10:00 @ TD411, Seat 68
 photo: yijie.jpg
 ---
 

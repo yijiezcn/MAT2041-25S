@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Feel free to reach out if you have any.
+Feel free to reach out if you have any questions.
 ## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
