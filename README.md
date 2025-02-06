@@ -8,7 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# MAT2041, Fall 2023
+# MAT2041, Spring 2025
 
 ---
 
