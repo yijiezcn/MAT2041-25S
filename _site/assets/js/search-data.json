@@ -1,0 +1,212 @@
+{"0": {
+    "doc": "Just the Class",
+    "title": "MAT2041, Fall 2022",
+    "content": " ",
+    "url": "/MAT2041/index.html#mat2041-fall-2022",
+    "relUrl": "/index.html#mat2041-fall-2022"
+  },"1": {
+    "doc": "Just the Class",
+    "title": "Logistics",
+    "content": "Instructor: Tongxin Li (litongxin@cuhk.edu.cn), Session L1 . Course Schedule: Tue &amp; Thu 3:30PM-4:50PM, 09/05/2022-12/08/2022 Exam Week: (12/10-12/17) . Venue: Teaching D Bldg 102 . Office Hours: TBD . Tutorial Hours: TBD . Textbook: “Introduction to Linear Algebra”, Gilbert Strang, 5th Edition, Wellesley-Cambridge Press . Online communication channels: . | This website: a collection of links, announcements, course material, homeworks, etc. | Blackboard: occassionally used. | Wechat group: For discussion, posting announcements, etc. | . ",
+    "url": "/MAT2041/index.html#logistics",
+    "relUrl": "/index.html#logistics"
+  },"2": {
+    "doc": "Just the Class",
+    "title": "Course Information",
+    "content": " ",
+    "url": "/MAT2041/index.html#course-information",
+    "relUrl": "/index.html#course-information"
+  },"3": {
+    "doc": "Just the Class",
+    "title": "Table of contents",
+    "content": ". | MAT2041, Fall 2022 . | Logistics | Course Description | Learning Outcomes | Grading Scheme | Policy for assignments and exams | Late policy | Grace days | Regrade requests | Suggestions | General Course Policies: | Attendance requirement | . | . ",
+    "url": "/MAT2041/index.html#table-of-contents",
+    "relUrl": "/index.html#table-of-contents"
+  },"4": {
+    "doc": "Just the Class",
+    "title": "Course Description",
+    "content": "This course is intended to be an introduction to and survey of deterministic optimization models with applications to systems found in operations research. The student should complete this course with the ability to identify problems that can be addressed using operations research models, as well as the ability to use such models to solve problems. ",
+    "url": "/MAT2041/index.html#course-description",
+    "relUrl": "/index.html#course-description"
+  },"5": {
+    "doc": "Just the Class",
+    "title": "Learning Outcomes",
+    "content": "Following the completion of this course, students should be able to . | Understand of the concepts of linear algebra. | Become proficient in the basic matrix calculations, such as addition, multiplication, inverse, and determinants. | Get knowledge of matrix decompositions, such as LU, QR and SVD. | Understand the theory of linear algebra, such as linear independence, vector spaces, orthogonality, and eigen-theory. | Applying linear algebra tools to data science. | . ",
+    "url": "/MAT2041/index.html#learning-outcomes",
+    "relUrl": "/index.html#learning-outcomes"
+  },"6": {
+    "doc": "Just the Class",
+    "title": "Grading Scheme",
+    "content": ". | Assignments: 35% | Midterm exam: 30% | Final exam: 35% | In-class quiz: ?% (There maybe some in-class quiz, contributing a random portion from 0% to 5% to the final score) | . ",
+    "url": "/MAT2041/index.html#grading-scheme",
+    "relUrl": "/index.html#grading-scheme"
+  },"7": {
+    "doc": "Just the Class",
+    "title": "Policy for assignments and exams",
+    "content": ". | Problem sets will be assigned approximately biweekly. Homeworks should be submitted as a PDF to Blackboard by 6pm Beijing Time on the due date, or earlier. More details and instructions about the homework submission will be provided in the assignments. | Late homework policy: some scores will be subtracted due to late submission. For details, check the late policy section. | Exams will be in-person or online, depending on the situations. The specific time and form will be announced later. | Absences: Make-up exams will only be allowed under extraordinary and unavoidable circumstances. Appropriate documentation verifying the absence may be required; in cases of illness, you will be asked to have official documentation from a physician-reviewed and verified by the Dean of the school. Make-up exam arrangements will be made based on a case-by-case basis. | Assignments and due dates will be announced on the course website. There will be reminders of the coming deadlines at the beginning of each week in our WeChat Group and/or via email. | Plagiarism will be dealt with severity. See “Academic Integrity” below for more details. | Grading clarifications (in assignments as well as exams) should be resolved within a week from the date when the graded submission is returned. No clarification applications will be considered after a week. Bring your clarification requirements to the TA’s office hour. | . ",
+    "url": "/MAT2041/index.html#policy-for-assignments-and-exams",
+    "relUrl": "/index.html#policy-for-assignments-and-exams"
+  },"8": {
+    "doc": "Just the Class",
+    "title": "Late policy",
+    "content": "You will be given 3 grace days (self-granted extensions) for the whole semester, which you can use to give yourself extra time without penalty. Note that passing the deadline by 1 minute or 23 hours are both counted as one grace day. Instructor-granted extensions are only considered after all grace days are used and can only be given in exceptional situations. Late homework submitted when you have run out of grace days leads to a reduction of 20% from the total points for that assignment. For instance, if in homework 1 you submit 2 days late and in homework 2 you submit 1 day late, then you do not get penalty for these two submissions, but you have used all your 3 grace days now. For homework 3, if you submit 1 day late (e.g. submit 2 minutes late than the deadline), you will get a penalty of 20% of the total points for homework 3; same penalty applies to all subsequent homeworks. HARD deadline of 3 days past the original due date. Late submissions after the hard deadline (penalty or not) lead to ZERO point (unless in very special cases and under the approval of the instructor. For instance, if you submit homework 2 in the 3rd day after deadline and you used no grace day before, then you get no penalty since it is still within 3 grace days; but if you submit in the 4th day, you will get ZERO point since it passes the HARD deadline. ",
+    "url": "/MAT2041/index.html#late-policy",
+    "relUrl": "/index.html#late-policy"
+  },"9": {
+    "doc": "Just the Class",
+    "title": "Grace days",
+    "content": "Grace days are “self-granted extensions”. We recognize that even the most careful of plans can be derailed by an unforeseen event. When the unexpected happens – you get the flu, the network goes down, you delete a critical file, a personal situation escalates – you would usually have to request an extension from the staff. Instead, you are given the privilege to grant yourself an extension without our oversight. One grace day extends the deadline by 24 hours. Grace days are your means to cover real problems: illness, stolen laptops, bike accidents, and so on. We don’t intend for them to cover ski trips, overcommitment, or poor planning, but you can use them as you choose and we don’t check up on you. You may use all of your grace days for one assignment, distribute them across several assignments, or even better, hoard them for a crisis that thankfully never comes. Since Grace days are “self-granted extensions”, you do NOT need to send an email to the TAs if you want to use the grace day(s). ",
+    "url": "/MAT2041/index.html#grace-days",
+    "relUrl": "/index.html#grace-days"
+  },"10": {
+    "doc": "Just the Class",
+    "title": "Regrade requests",
+    "content": "Credit for work will be recorded only as reported by the TA in Blackboard. It is your responsibility to make sure that your work has been properly recorded in Blackboard. If you need to request a regrade for an assignment, please adhere to the following policy: . | If there was a clerical or math mistake in calculating or recording your grade, please email the TA who graded it so that it can be fixed. | If you lost points for something you did correctly, e.g. the grader said “-2 points for not doing X” and you actually did do that (or something similar), please speak with the TA who graded it during their office hours. It is preferable to discuss these things in-person than over email. However, if you can’t attend the grader’s office hours, then email them to try to arrange another time to meet. | Likewise, if you lost points for something and do not understand the grader’s comments, please speak with the TA who graded it during their office hours if possible. | For any other issues, please contact the instructor. This may be things like “I didn’t realize we had to do X,” “I misunderstood this part of the assignment,” etc. This isn’t to say that you’ll necessarily get points back for your misunderstanding, but issues such as these should be discussed with the instructor. Regrade requests must be made within one week of the score being posted in blackboard. Only regrades related to administrative mistakes (e.g., miscalculating the score or entering it incorrectly) made after the one-week period are likely to be considered. | . ",
+    "url": "/MAT2041/index.html#regrade-requests",
+    "relUrl": "/index.html#regrade-requests"
+  },"11": {
+    "doc": "Just the Class",
+    "title": "Suggestions",
+    "content": ". | Check email or wechat for announcements! Check email or wechat! Check email or wechat! I mean, check your cuhksz email or wechat group, at least once a day. | Email TAs for homework-related questions (can either cc or not cc the instructor). | Email the instructor for other questions. | Check Blackboard and this website; e.g., once every 2-3 days. | Feel free to ask questions in the Wechat group. No question is stupid! . | You can email the instructor for most questions regarding course contents or logistics, but the instructor may or may not be able to respond in time (though the instructor often replies within 24 hours). It is recommended to ask questions in the Wechat group, or email the TAs (you may consider cc the instructor). If it is urgent or you really want to hear from the instructor, you can add “[MAT2041 Urgent]” or “[MAT2041 Need Response]” to the title, so that the instructor will pay attention to the email. · You are encouraged to discuss lecture materials, practice problems with each other; but not homework problems. | . ",
+    "url": "/MAT2041/index.html#suggestions",
+    "relUrl": "/index.html#suggestions"
+  },"12": {
+    "doc": "Just the Class",
+    "title": "General Course Policies:",
+    "content": "Academic Integrity: Academic dishonesty may result in a failing grade (i.e. F). Every student is expected to review and abide by the Academic Integrity Policy of CUHK-Shenzhen. Ignorance will not be allowed as an excuse for any academic dishonesty. Do not hesitate to ask me if you are ever in doubt about what constitutes plagiarism, cheating, or any other breach of academic integrity. ",
+    "url": "/MAT2041/index.html#general-course-policies",
+    "relUrl": "/index.html#general-course-policies"
+  },"13": {
+    "doc": "Just the Class",
+    "title": "Attendance requirement",
+    "content": "You are expected to attend the course in-person or watch all course videos on time unless you are unable to come to the campus (don’t wait until the last minute of the assignment deadline). We use quizzes help you keep the pace. Important course announcements will be made in Blackboard and this website or via email; you are responsible for being aware of these announcements. ",
+    "url": "/MAT2041/index.html#attendance-requirement",
+    "relUrl": "/index.html#attendance-requirement"
+  },"14": {
+    "doc": "Just the Class",
+    "title": "Just the Class",
+    "content": " ",
+    "url": "/MAT2041/index.html",
+    "relUrl": "/index.html"
+  },"15": {
+    "doc": "Course Syllabus",
+    "title": "Course Syllabus",
+    "content": " ",
+    "url": "/MAT2041/about/",
+    "relUrl": "/about/"
+  },"16": {
+    "doc": "Course Syllabus",
+    "title": "Table of contents",
+    "content": ". | Applications in Data Science | System of Linear Equations and Matrices | Matrices | Vectors | Vector Spaces | Matrices and Spaces | Linear Transformations | Determinants | Orthogonality | Eigen-Theory | Quadratic form | Singular Value Decomposition | . Applications in Data Science . Least square problems; word embedding; graph adjacency matrix; portfolio management; convolution; page rank and web search; recommendation system and matrix completion; topic model. System of Linear Equations and Matrices . Gaussian elimination, row operations, (reduced) row-echelon form, equivalent systems, solution set, augmented matrices, geometric interpretation. Matrices . Matrix operations, special matrices, partitioned matrices, matrix transpose, symmetric matrices, matrix inverse, nonsingular matrices, row operations and elementary matrices, LU decomposition. Vectors . Vector operations, linear combinations, linear span, linear independence, spanning sets. Vector Spaces . Vector spaces, subspaces, basis and dimension, change of basis. Matrices and Spaces . Column and row spaces, null spaces, rank of matrices, matrix space. Linear Transformations . Kernel, image, range, basis change, matrix representations of linear transformations, similarity. Determinants . Determinants, minors and cofactors, adjoint matrix and matrix inverse, Cramer’s rule. Orthogonality . Orthogonal subspaces, projections, orthonormal basis, Gram-Schmidt process, QR decomposition; function space, Fourier series. Eigen-Theory . Eigenvalues, eigenvectors, trace, page rank and web search; characteristic polynomial, diagonalization, eigenvalue decomposition, spectral theorem. Non-dignolizable matrices, complex eigenvalues, Hermitian matrix. Quadratic form . Quadratic forms, positive definite matrices. Singular Value Decomposition . Singular value decomposition, four fundamental subspaces; low rank approximation. ",
+    "url": "/MAT2041/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"17": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "/MAT2041/announcements/",
+    "relUrl": "/announcements/"
+  },"18": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read ",
+    "url": "/MAT2041/announcements/",
+    "relUrl": "/announcements/"
+  },"19": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Our first lecture will be conducted in a hybrid mode. The Zoom link for our lecture is: . https://caltech.zoom.us/j/87842855460?pwd=NkFUTlFZb1IxSUc4d2FISU0zNCtadz09 . Passcode: 262095 . ",
+    "url": "/MAT2041/announcements/",
+    "relUrl": "/announcements/"
+  },"20": {
+    "doc": "Assignments",
+    "title": "Assignments",
+    "content": "The first assignment will be posted on or before Week02. ",
+    "url": "/MAT2041/assignments/",
+    "relUrl": "/assignments/"
+  },"21": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/MAT2041/calendar/",
+    "relUrl": "/calendar/"
+  },"22": {
+    "doc": "Calendar",
+    "title": "Introduction to Java",
+    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
+    "url": "/MAT2041/calendar/#introduction-to-java",
+    "relUrl": "/calendar/#introduction-to-java"
+  },"23": {
+    "doc": "Calendar",
+    "title": "Basic Data Structures",
+    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "/MAT2041/calendar/#basic-data-structures",
+    "relUrl": "/calendar/#basic-data-structures"
+  },"24": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/MAT2041/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"25": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": "| ",
+    "url": "/MAT2041/schedule/",
+    "relUrl": "/schedule/"
+  },"26": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": ". | Lecture 3:30 PM–4:50 PM TD 102 | . | ",
+    "url": "/MAT2041/schedule/",
+    "relUrl": "/schedule/"
+  },"27": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": "| ",
+    "url": "/MAT2041/schedule/",
+    "relUrl": "/schedule/"
+  },"28": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Lecture 3:30 PM–4:50 PM TD 102 | . | ",
+    "url": "/MAT2041/schedule/",
+    "relUrl": "/schedule/"
+  },"29": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "/MAT2041/schedule/",
+    "relUrl": "/schedule/"
+  },"30": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/MAT2041/schedule/",
+    "relUrl": "/schedule/"
+  },"31": {
+    "doc": "Teaching Staff",
+    "title": "Staff",
+    "content": "Feel free to contact me or the teaching assistants if you have any questions. ",
+    "url": "/MAT2041/staff/#staff",
+    "relUrl": "/staff/#staff"
+  },"32": {
+    "doc": "Teaching Staff",
+    "title": "Instructor",
+    "content": "Tongxin Li . Schedule an appointment . ",
+    "url": "/MAT2041/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"33": {
+    "doc": "Teaching Staff",
+    "title": "Teaching Assistants",
+    "content": "Si, CHenhao . 222042011@link.cuhk.edu.cn . Zhang, Junpeng . 218019025@link.cuhk.edu.cn . Wu, Xinyuan . 222042014@link.cuhk.edu.cn . Zhou, Yijie . 222043016@link.cuhk.edu.cn . Qian, Zishan . 222042009@link.cuhk.edu.cn . Yan, Xuanchen (Lead) . 221049037@link.cuhk.edu.cn . ",
+    "url": "/MAT2041/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"34": {
+    "doc": "Teaching Staff",
+    "title": "Teaching Staff",
+    "content": " ",
+    "url": "/MAT2041/staff/",
+    "relUrl": "/staff/"
+  }
+}
