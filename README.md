@@ -62,9 +62,9 @@ L2: TxC 201
 
 **Instructor**: **Cosme LOUART**   cosmelouart@cuhk.edu.cn
 
-**Course Schedule**: TBA
+**Course Schedule**: Mon & Wed 1:30PM-3:00PM
 
-**Venue**: TBA
+**Venue**: TB 103
 
 **Textbook**: "*Introduction to Linear Algebra*", Gilbert Strang, 6th Edition, Wellesley-Cambridge Press. (The 6th edition is recommended, but the 5th is also okay)
 
@@ -80,7 +80,7 @@ L2: TxC 201
 
 ### *Tutorial*
 
-***See [HERE](https://yijiezcn.github.io/MAT2041-25S/assets/tutorials/tut_timetable.xlsx)***
+***See [HERE](https://yijiezcn.github.io/MAT2041-25S/assets/tutorials/tut_timetable.png)***
 
 ## Course Description
 
