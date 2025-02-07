@@ -1,22 +1,20 @@
 ---
-title: Week 2 System of Linear Equations
+title: Week 2 
 ---
 
-Sep 12
-: **Lecture**{: .label .label-purple }[Systems of Linear Equations I/Matrix Operation](#)
-  : [Slides L1](https://yijiezcn.github.io/MAT2041-23F/assets/slides/L1/Lec3.pdf)
-    [Slides L2 and L3](https://yijiezcn.github.io/MAT2041-23F/assets/slides/L2/Lec3.pdf)
+Day 1
+: **Lecture**{: .label .label-purple }
+[Slides L1 & L2](https://yijiezcn.github.io/MAT2041-25S/assets/slides/L1/Lec3.pdf)
+[Slides L3](https://yijiezcn.github.io/MAT2041-25S/assets/slides/L3/Lec3.pdf)
 
-: **Tutorial**{: .label .label-brown }[Basics about vector](#)
-  : [Slides](https://yijiezcn.github.io/MAT2041-23F/assets/tutorials/tut1.pptx)
-    [HW Submission Guidance](https://yijiezcn.github.io/MAT2041-23F/assets/tutorials/submission_guide.mp4)
+: **Tutorial**{: .label .label-brown }
+[Slides](https://yijiezcn.github.io/MAT2041-25S/assets/tutorials/tut1.pptx)
 
-Sep 13
-: **Assignment**{: .label .label-yellow }[Vectors and Vector Operations](#)
-  : [Assignment 1](https://yijiezcn.github.io/MAT2041-23F/assets/assignments/assignment1.pdf)
+: **Assignment**{: .label .label-yellow }
+[Assignment 1](https://yijiezcn.github.io/MAT2041-25S/assets/assignments/assignment1.pdf)
 
-Sep 14
-: **Lecture**{: .label .label-purple }[Matrix Operation](#)
-  : [Slides L1](https://yijiezcn.github.io/MAT2041-23F/assets/slides/L1/Lec4.pdf)
-    [Slides L2 and L3](https://yijiezcn.github.io/MAT2041-23F/assets/slides/L2/Lec4.pdf)
+Day 2
+: **Lecture**{: .label .label-purple }
+[Slides L1](https://yijiezcn.github.io/MAT2041-25S/assets/slides/L1/Lec4.pdf)
+[Slides L2 and L3](https://yijiezcn.github.io/MAT2041-25S/assets/slides/L3/Lec4.pdf)
   
