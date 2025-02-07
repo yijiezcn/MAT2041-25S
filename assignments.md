@@ -9,7 +9,7 @@ There will be around 7 assignments in total.
 
 ## [Assignment 1](https://yijiezcn.github.io/MAT2041-23F/assets/assignments/assignment1.pdf)
 
-This assignment is due on ***20th Sept at 10:00PM***.
+This assignment is due on ***9th Feb at 6:00PM***.
 
 Should you have any regrade request, please contact [Zhan, Heshen](https://yijiezcn.github.io/MAT2041-23F/staff/#teaching-assistants).
 
