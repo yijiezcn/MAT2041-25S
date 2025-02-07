@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Linear Algebra and Applications
-tagline: Logistics and Syllabus MAT2041, Fall 2023
-description: Logistics and Syllabus MAT2041, Fall 2023
+tagline: Logistics and Syllabus MAT2041, Spring 2025
+description: Logistics and Syllabus MAT2041, Spring 2025
 author: Yijie Zhou
-baseurl: '/MAT2041-23F' # the subpath of your site, e.g. /blog
+baseurl: '/MAT2041-25S' # the subpath of your site, e.g. /blog
 url: 'https://yijiezcn.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
