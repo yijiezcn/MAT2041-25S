@@ -46,7 +46,7 @@ seo:
 
 **Course Schedule**: 
 
-L1: Tue & Thu 8:30AM-10:50AM
+L1: Tue & Thu 8:30AM-9:50AM
 
 L2: Tue & Thu 1:30PM-2:50PM
 
@@ -62,7 +62,7 @@ L2: TxC 201
 
 **Instructor**: **Cosme LOUART**   cosmelouart@cuhk.edu.cn
 
-**Course Schedule**: Mon & Wed 1:30PM-3:00PM
+**Course Schedule**: Mon & Wed 1:30PM-2:50PM
 
 **Venue**: TB 103
 
