@@ -25,7 +25,7 @@ seo:
 
 ## Course Materials
 
-***The course materials can be found in [HERE](https://yijiezcn.github.io/MAT2041-25S/calendar/)***
+***The course materials can be found in the calender section***
 
 
 ## Online communication channels
